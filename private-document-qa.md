@@ -1,6 +1,6 @@
 ---
 title: Private Document Q&A
-summary: A chat that answers questions from your own PDFs, running on your machine
+summary: A private chat that answers questions from your own PDFs and documents, running entirely on your machine - nothing you upload ever leaves your computer.
 best_for: Small firms with confidential documents
 difficulty: intermediate
 setup_time: ~30 min

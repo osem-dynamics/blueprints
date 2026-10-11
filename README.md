@@ -16,7 +16,7 @@ These are the blueprints published at **[osemdynamics.com/blueprints](https://os
 |---|---|---|---|
 | [Consultation Booking (with human review)](https://osemdynamics.com/blueprints/consultation-booking) | A booking page where clients request a slot and you approve, reject, or reschedule - with email confirmations and calendar invites | advanced | ~2-4 hours |
 | [Launch-Ready SEO + LLMO Setup](https://osemdynamics.com/blueprints/launch-ready-seo-llmo) | Make a new or migrated site findable by search engines and AI assistants - the on-site fixes plus the off-site setup (Search Console, Bing, GA4). | intermediate | ~2-3 hours |
-| [Private Document Q&A](https://osemdynamics.com/blueprints/private-document-qa) | A chat that answers questions from your own PDFs, running on your machine | intermediate | ~30 min |
+| [Private Document Q&A](https://osemdynamics.com/blueprints/private-document-qa) | A private chat that answers questions from your own PDFs and documents, running entirely on your machine - nothing you upload ever leaves your computer. | intermediate | ~30 min |
 | [Shopify MCP for Claude Code](https://osemdynamics.com/blueprints/shopify-mcp-setup) | Wire a Shopify store into Claude Code with an MCP server, so your AI assistant can read and manage products, orders, customers, and blog posts. | intermediate | ~1 hour |
 
 Each links to its page on the site; the raw spec is the matching `.md` file in this repo (or `https://osemdynamics.com/blueprints/<slug>.md`).
